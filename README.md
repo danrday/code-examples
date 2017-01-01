@@ -11,7 +11,7 @@ deployed: https://sessionsbasic.herokuapp.com/
 github repo: https://github.com/danrday/sessions
 
 ###Grocery Tracker App(Using Node.js, Ionic, Passport, BCrypt, MongoDB)
-https://github.com/danrday/audioVisuals
+https://github.com/danrday/grocery-tracker
 
 ###To-Do App using Node and MongoDB
 https://github.com/danrday/todoapp_node
