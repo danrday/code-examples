@@ -8,11 +8,8 @@ github repo: https://github.com/danrday/audioVisuals
 
 
 ###Grocery Tracker(track spending by category)
-
-[Example](https://github.com/danrday/grocery-tracker/blob/master/screengrabs/IMG_5781.jpg
-)<br><img src="https://github.com/danrday/grocery-tracker/blob/master/screengrabs/IMG_5781.jpg
-" height="320">
-
+###Using Node.js, Ionic, Passport, BCrypt, MongoDB
+https://github.com/danrday/audioVisuals
 
 ###Sessions example: basic login/logout functionality
 ###Using MongoDB, Redis, Bcrypt
