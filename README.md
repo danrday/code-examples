@@ -2,7 +2,7 @@
 
 ##Individual Projects
 
-###Charting Variation in songtempo (Using D3.js, MongoDB, AngularJS)
+###Charting variations in song tempo (Using D3.js, MongoDB, AngularJS)
 deployed: https://songtempo.herokuapp.com/
 github repo: https://github.com/danrday/audioVisuals
 
@@ -13,10 +13,10 @@ github repo: https://github.com/danrday/sessions
 ###Grocery Tracker App(Using Node.js, Ionic, Passport, BCrypt, MongoDB)
 https://github.com/danrday/audioVisuals
 
-###To Do App using Node and MongoDB
+###To-Do App using Node and MongoDB
 https://github.com/danrday/todoapp_node
 
-###Node foundations mastery excercise for Nashville Software School
+###Node foundations mastery exercise for Nashville Software School
 https://github.com/nss-day-cohort-14/node-foundations-mastery-exercise-danrday
 
 ###Simple Reddit clone with upvote/downvote functionality for posts, data stored in MongoDB
