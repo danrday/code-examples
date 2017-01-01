@@ -19,9 +19,6 @@ https://github.com/danrday/todoapp_node
 ###Node foundations mastery exercise for Nashville Software School
 https://github.com/nss-day-cohort-14/node-foundations-mastery-exercise-danrday
 
-###Simple Reddit clone with upvote/downvote functionality for posts, data stored in MongoDB
-https://github.com/danrday/reddit-clone
-
 
 ##Group Projects
 
@@ -37,3 +34,6 @@ https://github.com/danrday/saddle-up
 
 ###Team Tea, a mock website for a tea company
 https://github.com/danrday/teamteam-tea
+
+###Simple Reddit clone with upvote/downvote functionality for posts, data stored in MongoDB
+https://github.com/danrday/reddit-clone
