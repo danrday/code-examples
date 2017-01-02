@@ -3,8 +3,12 @@
 ##Individual Projects
 
 ###Charting variations in song tempo (Using D3.js, MongoDB, AngularJS)
+To use, be sure to login with a Spotify account.
+
 deployed: https://songtempo.herokuapp.com/
 github repo: https://github.com/danrday/audioVisuals
+
+[Color Picker feature at bottom:](/colorpicker.png)<br><img src="/colorpicker.png" height="320">
 
 ###Sessions example: basic login/logout functionality (Using MongoDB, Redis, Bcrypt)
 deployed: https://sessionsbasic.herokuapp.com/
