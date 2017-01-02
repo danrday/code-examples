@@ -17,7 +17,7 @@ github repo: https://github.com/danrday/sessions
 ###Grocery Tracker App(Using Node.js, Ionic, Passport, BCrypt, MongoDB)
 https://github.com/danrday/grocery-tracker
 
-[Break down spending by category](/piechart.jpg)<br><img src="/piechart.jpg" height="320">
+[Break down spending by category](/piegraph.jpg)<br><img src="/piegraph.jpg" height="320">
 
 ###To-Do App using Node and MongoDB
 https://github.com/danrday/todoapp_node
